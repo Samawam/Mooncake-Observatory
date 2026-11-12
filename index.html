@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mooncake Project Manager</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="project-manager">
+
+        <!-- Page heading -->
+        <header class="hero">
+            <div class="hero-text">
+                <p class="eyebrow">M-Archives Control Room</p>
+
+                <h1><span
+                        title="Curious by nature. Investigator by accident. Known for turning confusion into understanding through questions, experiments, and an unreasonable amount of documentation.">
+                        🌙🐦✨
+                    </span>Mooncake Project Manager</h1>
+                <h2>Observations & Projects</h2>
+
+                <p>
+                    <a href="Archive-Entries/entry-001.html">
+                        Entry #001: The Archives Came Online
+                    </a>
+                </p>
+
+                <p class="hero-description">
+                    Capture ideas, track experiments and turn small
+                    discoveries into finished archive entries.
+                </p>
+                <h2 id="status">Dark Mode Off</h2>
+
+<button id="activateBtn">
+    Enable Dark Mode
+</button>
+            <button class="add-project-button" id="add-project-button" type="button" aria-expanded="false"
+                aria-controls="project-form">
+                + Add project
+            </button>
+        </header>
+        <!-- Add project form -->
+        <section class="project-form hidden" id="project-form">
+            <h2>Create an archive candidate</h2>
+
+            <p class="form-introduction">
+                Start small. A project only needs a clear purpose and one working result.
+            </p>
+
+            <form>
+                <div class="form-grid">
+                    <label>
+                        Project name
+
+                        <input type="text" name="project-name" placeholder="For example: Pal Summon Logger">
+                    </label>
+
+                    <label>
+                        Technology
+
+                        <input type="text" name="technology" placeholder="For example: HTML, CSS">
+                    </label>
+
+                    <label>
+                        Category
+
+                        <select name="category">
+                            <option>Web Development</option>
+                            <option>Programming</option>
+                            <option>Archive Entry</option>
+                            <option>Design</option>
+                            <option>Research</option>
+                        </select>
+                    </label>
+
+                    <label>
+                        Status
+
+                        <select name="status">
+                            <option>Idea</option>
+                            <option>In Progress</option>
+                            <option>Complete</option>
+                        </select>
+                    </label>
+
+                    <label class="description-field">
+                        Short description
+
+                        <textarea name="description" rows="4" placeholder="What does the project do?"></textarea>
+                    </label>
+                </div>
+
+                <button class="create-project-button" type="submit">
+                    Create project card
+                </button>
+            </form>
+        </section>
+
+        <!-- Search and filter controls -->
+        <div class="project-controls">
+            <label class="search-control">
+                <span class="visually-hidden">Search projects</span>
+
+                <input type="search" placeholder="Search the archives...">
+            </label>
+
+            <label>
+                <span class="visually-hidden">Filter by category</span>
+
+                <select>
+                    <option>All categories</option>
+                    <option>Web Development</option>
+                    <option>Programming</option>
+                    <option>Game Modding</option>
+                    <option>Design</option>
+                    <option>Research</option>
+                </select>
+            </label>
+
+            <label>
+                <span class="visually-hidden">Filter by status</span>
+
+                <select>
+                    <option>All statuses</option>
+                    <option>Idea</option>
+                    <option>In Progress</option>
+                    <option>Complete</option>
+                </select>
+            </label>
+        </div>
+
+        <!-- Project count -->
+        <p class="project-count">
+            Showing 3 projects
+        </p>
+
+        <!-- Project cards -->
+        <section class="project-grid">
+
+            <!-- Mooncake Archives card -->
+            <article class="project-card">
+                <div class="card-top">
+                    <div class="project-icon" aria-hidden="true">
+                        M
+                    </div>
+
+                    <button class="delete-button" type="button" aria-label="Delete Mooncake Archives">
+                        ×
+                    </button>
+                </div>
+
+                <div class="project-labels">
+                    <span class="status status-progress">
+                        In Progress
+                    </span>
+
+                    <span class="category">
+                        Web Development
+                    </span>
+                </div>
+
+                <h2>Mooncake Archives</h2>
+
+                <p class="project-description">
+                    An interactive portfolio archive with animated
+                    project preview cards.
+                </p>
+
+                <p class="technology">
+                    <span>Built with</span>
+                    HTML, CSS
+                </p>
+            </article>
+
+            <!-- Palworld project card -->
+            <article class="project-card">
+                <div class="card-top">
+                    <div class="project-icon" aria-hidden="true">
+                        P
+                    </div>
+
+                    <button class="delete-button" type="button" aria-label="Delete Palworld Mod Investigation">
+                        ×
+                    </button>
+                </div>
+
+                
+                <div class="project-labels">
+                    <span class="status status-idea">
+                        Idea
+                    </span>
+
+                    <span class="category">
+                        Archive Entry
+                    </span>
+                </div>
+
+                <h3>Mooncake 🐦🌙</h3>
+
+                <p class="project-description">
+                    Curious by nature. Investigator by accident.
+                </p>
+
+                <div class="mooncake-symbols">
+                    🐦 Curiosity<br>
+                    🌙 Reflection<br>
+                    📖 Archive<br>
+                    ✨ Discovery
+                </div>
+
+                <div class="mooncake-status">
+                    <strong>Status:</strong> Investigating
+                </div>
+
+                <p class="technology">
+                    <span>Current Investigation</span>
+                    Understanding things.
+                </p>
+            </article>
+
+            <!-- Project Manager card -->
+            <article class="project-card">
+                <div class="card-top">
+                    <div class="project-icon" aria-hidden="true">
+                        PM
+                    </div>
+
+                    <button class="delete-button" type="button" aria-label="Delete Project Manager">
+                    </button>
+                </div>
+
+                <div class="project-labels">
+                    <span class="status status-progress">
+                        In Progress
+                    </span>
+
+                    <span class="category">
+                        Web Development
+                    </span>
+                </div>
+
+                <h2>Project Manager</h2>
+
+                <p class="project-description">
+                    A browser-based tool for organising future
+                    Mooncake Archives entries.
+                </p>
+
+                <p class="technology">
+                    <span>Built with</span>
+                    HTML, CSS, JavaScript
+                </p>
+            </article>
+            <article class="project-card">
+                <div class="project-labels">
+                    <span class="status status-idea">Observation</span>
+                    <span class="category">Mooncake Observatory</span>
+                </div>
+
+                <h2>🔭 The Mooncake Observatory</h2>
+
+                <p class="project-description">
+                    A place for active investigations, observations,
+                    experiments, and future projects before they
+                    enter the Mooncake Archives.
+                </p>
+
+                <p>
+                    <strong>Current Investigation:</strong><br>
+                    Understanding things.
+                </p>
+
+                <p>
+                    <strong>Observation #001:</strong><br>
+                    How do curiosities become creations?
+                </p>
+
+                <p>
+                    <strong>Objects on the Horizon:</strong><br>
+                    🎨 Image Design<br>
+                    🌐 Prompt-Guided Websites<br>
+                    📚 Learning Systems<br>
+                    🐦 Unknown Future Nonsense
+                </p>
+
+                <p class="technology">
+                    <span>Status</span><br>
+                    Observation ongoing.
+                </p>
+            </article>
+            <section class="citizens-section">
+
+    <h2>📚 Volume I - Citizens</h2>
+
+    <p class="section-description">
+        The citizens of the Mooncake Archives.
+    </p>
+    <div class="archive-grid">
+
+    <article class="citizen-summary-card">
+
+        <div class="citizen-emoji">🐦</div>
+
+        <h3>Mooncake</h3>
+
+        <p>
+            Curious by nature. Investigator by accident.
+        </p>
+
+    </article>
+    <article class="citizen-summary-card">
+
+        <div class="citizen-emoji">🦥</div>
+
+        <h3>Sloth</h3>
+
+        <p>
+            Explorer of mazes.
+        </p>
+
+    </article>
+    <article class="citizen-summary-card">
+
+    <div class="citizen-emoji">🐉</div>
+
+    <h3>Captain C</h3>
+
+    <p>
+        Keeper of balance.
+    </p>
+
+</article>
+<article class="citizen-summary-card">
+
+    <div class="citizen-emoji">🦇</div>
+
+    <h3>Batman</h3>
+
+    <p>
+        Master of medicine and consequences.
+    </p>
+
+</article>
+<article class="citizen-summary-card">
+
+    <div class="citizen-emoji">🦉</div>
+
+    <h3>Inspector Owl</h3>
+
+    <p>
+        Collector of observations and breadcrumbs.
+    </p>
+
+</article>
+
+
+</div>
+<section class="places-section">
+
+    <h2>🗺️ Volume II - Places</h2>
+
+    <p class="section-description">
+        Locations and landmarks of the Mooncake Universe.
+    </p>
+
+    <div class="place-grid">
+
+        <article class="place-summary-card">
+            <div class="place-emoji">🌙</div>
+            <h3>The Archives</h3>
+            <p>
+                Home of the collected volumes.
+            </p>
+        </article>
+
+        <article class="place-summary-card">
+            <div class="place-emoji">🔭</div>
+            <h3>The Observatory</h3>
+            <p>
+                Where observations begin.
+            </p>
+        </article>
+
+        <article class="place-summary-card">
+            <div class="place-emoji">🌀</div>
+            <h3>The Maze</h3>
+            <p>
+                Best explored, not explained.
+            </p>
+        </article>
+
+    </div>
+
+</section>
+
+</section>
+        </div>
+        <div class="mooncake-sky-section">
+            <img src="images/mooncake-sky.jpg" alt="The Mooncake Sky" class="mooncake-sky-image">
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
