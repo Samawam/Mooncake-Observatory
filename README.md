@@ -19,6 +19,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [001 - Ungh (µ)](observations/001-ungh.md) - a unit used to estimate effort, resistance,
   inconvenience, mental friction, and general ungh.
 - [002 - Micro-Ungh Narrative (µn)](observations/002-micro-ungh-narrative.md)
+- [004 - Temporal Drift Event](observations/004-temporal-drift-event.md)
 
 Further observation required.
 
