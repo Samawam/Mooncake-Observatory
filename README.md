@@ -27,6 +27,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [005 - Appendix C: Administrative Remarks Regarding Recent Events](observations/005-appendix-c-administrative-remarks.md)
 - [006 - Research Note Bµ and Sℓ](observations/006-research-note-bmu-and-sl.md)
 - [007 - Observatory Assessment: Top Lane](observations/007-observatory-assessment-top-lane.md)
+- [008 - Observatory Assessment: AI Opponent](observations/008-observatory-assessment-ai-opponent.md)
 
 Further observation required.
 
