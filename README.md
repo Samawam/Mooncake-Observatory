@@ -5,6 +5,10 @@ Welcome to the Observatory.
 This place contains observations, ideas, questions,
 discoveries, and an entirely impractical amount of birds.
 
+## Related Project
+
+[L.O.R.E. — Linked Observations, Records & Echoes](https://hybertius.github.io/lore-cairns/) is a curated archive of conversations, observations, jokes, and recurring ideas.
+
 The Observatory exists to collect small observations that seem
 worth keeping.
 
