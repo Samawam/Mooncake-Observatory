@@ -30,6 +30,10 @@ Some may simply be interesting enough to leave a marker behind.
 - [007 - Observatory Assessment: Top Lane](observations/007-observatory-assessment-top-lane.md)
 - [008 - Observatory Assessment: AI Opponent](observations/008-observatory-assessment-ai-opponent.md)
 - [009 - Observatory Assessment: The Configuration](observations/009-observatory-assessment-the-configuration.md)
+- [010 - The Observatory Principle](observations/010-observatory-principle.md)
+- [011 - Observatory Assessment: The Constellation](observations/011-observatory-assessment-constellation.md)
+- [012 - The Archive Effect](observations/012-the-archive-effect.md)
+- [013 - Different Doors, Same Locations](observations/013-different-doors-same-locations.md)
 
 Further observation required.
 
