@@ -33,7 +33,8 @@ Some may simply be interesting enough to leave a marker behind.
 - [010 - The Observatory Principle](observations/010-observatory-principle.md)
 - [011 - Observatory Assessment: The Constellation](observations/011-observatory-assessment-constellation.md)
 - [012 - The Archive Effect](observations/012-the-archive-effect.md)
-- [013 - Different Doors, Same Locations](observations/013-different-doors-same-locations.md)
+- [013 - Different Doors, Same Locations](observations/013-different-doors-same-location.md)
+- [016 - Bird at the Door](observations/016-bird-at-the-door.md)
 
 Further observation required.
 
