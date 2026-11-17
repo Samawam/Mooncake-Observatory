@@ -1,4 +1,4 @@
-# Different Doors, Same Locations
+# Different Doors, Same Location
 
 Researchers have reported a recurring phenomenon while reviewing archives, conversations, and related projects.
 
