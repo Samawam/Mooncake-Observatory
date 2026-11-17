@@ -35,6 +35,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [012 - The Archive Effect](observations/012-the-archive-effect.md)
 - [013 - Different Doors, Same Locations](observations/013-different-doors-same-location.md)
 - [016 - Bird at the Door](observations/016-bird-at-the-door.md)
+- [017 - Hidden Properties](observations/017-hidden-properties.md)
 
 Further observation required.
 
