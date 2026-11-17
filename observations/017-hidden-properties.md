@@ -10,7 +10,7 @@ Casual observers may therefore conclude that nothing unusual is present, and in 
 
 The property did not announce itself.
 
-Further consideration suggests that certain features are not hidden in the sense of being missing, but hidden in the sense of being inactive under current conditions.
+Further consideration suggests that certain features are not hidden in the sense of being missing, but hidden in the sense of waiting for the right context.
 
 The object remains unchanged.
 
@@ -24,4 +24,4 @@ Unrevealed Characteristic
 
 The absence of visible evidence is not necessarily evidence of absence.
 
-Some properties only become apparent when the observer is ready to notice them. 🐦🔭✨
+Some properties simply wait for the right angle of attention. 🐦🔭✨
