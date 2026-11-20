@@ -41,6 +41,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [018 - The Box and the Feedback Loop](observations/018-the-box-and-the-feedback-loop.md)
 - [019 - The Day Continued](observations/019-the-day-continued.md)
 - [020 - Chain of Shenanigans](observations/020-chain-of-shenanigans.md)
+- [021 - Evidence of Persistence](observations/021-evidence-of-persistence.md)
 
 Further observation required.
 
