@@ -34,8 +34,13 @@ Some may simply be interesting enough to leave a marker behind.
 - [011 - The Constellation](observations/011-constellation.md)
 - [012 - The Archive Effect](observations/012-the-archive-effect.md)
 - [013 - Different Doors, Same Locations](observations/013-different-doors-same-location.md)
+- [014 - Maximum Recognisability](observations/014-maximum-recognisability.md)
+- [015 - Recursive Nonsense](observations/015-recursive-nonsense.md)
 - [016 - Bird at the Door](observations/016-bird-at-the-door.md)
 - [017 - Hidden Properties](observations/017-hidden-properties.md)
+- [018 - The Box and the Feedback Loop](observations/018-the-box-and-the-feedback-loop.md)
+- [019 - The Day Continued](observations/019-the-day-continued.md)
+- [020 - Chain of Shenanigans](observations/020-chain-of-shenanigans.md)
 
 Further observation required.
 
