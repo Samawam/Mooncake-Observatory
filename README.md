@@ -27,11 +27,11 @@ Some may simply be interesting enough to leave a marker behind.
 - [004 - Temporal Drift Event](observations/004-temporal-drift-event.md)
 - [005 - Appendix C: Administrative Remarks Regarding Recent Events](observations/005-appendix-c-administrative-remarks.md)
 - [006 - Research Note Bµ and Sℓ](observations/006-research-note-bmu-and-sl.md)
-- [007 - Observatory Assessment: Top Lane](observations/007-observatory-assessment-top-lane.md)
-- [008 - Observatory Assessment: AI Opponent](observations/008-observatory-assessment-ai-opponent.md)
-- [009 - Observatory Assessment: The Configuration](observations/009-observatory-assessment-the-configuration.md)
+- [007 - The Mediocre Top-Laner](observations/007-the%20mediocre-top-laner.md)
+- [008 - AI Opponents](observations/008-ai-opponents.md)
+- [009 - The Configuration](observations/009-the-configuration.md)
 - [010 - The Observatory Principle](observations/010-observatory-principle.md)
-- [011 - Observatory Assessment: The Constellation](observations/011-observatory-assessment-constellation.md)
+- [011 - The Constellation](observations/011-constellation.md)
 - [012 - The Archive Effect](observations/012-the-archive-effect.md)
 - [013 - Different Doors, Same Locations](observations/013-different-doors-same-location.md)
 - [016 - Bird at the Door](observations/016-bird-at-the-door.md)
@@ -39,9 +39,10 @@ Some may simply be interesting enough to leave a marker behind.
 
 Further observation required.
 
-## Drafts
+## Bird Entries
 
-No current drafts pending publication.
+- [Revising the Micro-Ungh Theory](observations/bird%20entries/003-micro-ungh-revision-draft.md)
+- [Bird Entries in Progress](observations/bird%20entries/Drafts%20in%20progress.md)
 
 🐦🔭🌙
 
