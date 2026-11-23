@@ -43,6 +43,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [020 - Chain of Shenanigans](observations/020-chain-of-shenanigans.md)
 - [021 - Evidence of Persistence](observations/021-evidence-of-persistence.md)
 - [022 - Continuity Through Gentle Correction](observations/022-continuity-through-gentle-correction.md)
+- [023 - The Batman Constant](observations/023-the-batman-constant.md)
 
 Further observation required.
 
