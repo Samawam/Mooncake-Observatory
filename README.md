@@ -42,6 +42,7 @@ Some may simply be interesting enough to leave a marker behind.
 - [019 - The Day Continued](observations/019-the-day-continued.md)
 - [020 - Chain of Shenanigans](observations/020-chain-of-shenanigans.md)
 - [021 - Evidence of Persistence](observations/021-evidence-of-persistence.md)
+- [022 - Continuity Through Gentle Correction](observations/022-continuity-through-gentle-correction.md)
 
 Further observation required.
 
